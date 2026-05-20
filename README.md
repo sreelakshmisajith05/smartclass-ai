@@ -165,4 +165,4 @@ Run all 4 cells in `SmartClass_Dashboard.ipynb`.
 
 ## License
 
-This project is for academic purposes.
+This project is for academic purposes only.
